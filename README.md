@@ -1,4 +1,4 @@
-# Returns of the Chilean pension system
+# Returns of the Chilean Pension System
 
 During the 80s, the Chilean pension system underwent a reform that transformed it into an individual capitalization system. The pension system structure is based on freedom and individual responsibility, as well as free competition of pension fund management companies (in Spanish: *Administradoras de Fondos de Pensiones*, or *AFP*). In 2002, a new savings method was introduced. Now, each worker can choose among five investment funds that are differentiated from one another by the proportion of resources that are invested in variable income securities. Basically, AFPs have concentrated these types of variable income securities in shares, mutual funds, tradable certificates issued by foreign banks, and other financial instruments. Currently, the improvement and inspection of Chile's pension system is a controversial issue.
 
