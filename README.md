@@ -5,3 +5,6 @@ During the 80s, the Chilean pension system underwent a reform that transformed i
 The data corresponds to **monthly returns** of Chilean AFPs corresponding to the funds A, B, C, D and E, decreasing in terms of risk, in the period from *January 2010 to April 2020*. Data are available for each AFP operating under Chile's social security system: Capital Cuprum, Habitat, Modelo, PlanVital, ProVida and Uno, as well as the return of the system.
 
 We are grateful to [Francisco Cuevas](https://github.com/FcoCuevas87) for his code to download this dataset from the site of the [Superintendencia de Pensiones](https://www.spensiones.cl)
+
+### CONTENTS:
+- `/datasets/AFP_returns.csv`: CSV file with the montly returns for each AFP operating in the Chilean pension system.
